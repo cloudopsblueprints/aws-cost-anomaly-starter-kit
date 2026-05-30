@@ -1,0 +1,2 @@
+notification_email   = "alerts@example.com"
+monthly_budget_limit = 500
